@@ -1,0 +1,44 @@
+// https://links.papareact.com/pyp
+
+[
+  {
+    "img": "https://links.papareact.com/5j2",
+    "location": "Bear Mountain",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "https://links.papareact.com/1to",
+    "location": "Beacon",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://links.papareact.com/40m",
+    "location": "New Hope",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://links.papareact.com/msp",
+    "location": "New Paltz",
+    "distance": "4-hour drive"
+  },
+  {
+    "img": "https://links.papareact.com/2k3",
+    "location": "Lake Placid",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "https://links.papareact.com/ynx",
+    "location": "Shelter Island",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://links.papareact.com/kji",
+    "location": "Cape May",
+    "distance": "6-hour drive"
+  },
+  {
+    "img": "https://links.papareact.com/41m",
+    "location": "The Hamptons",
+    "distance": "2-hour drive"
+  }
+]
