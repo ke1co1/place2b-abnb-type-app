@@ -60,7 +60,7 @@ export async function getStaticProps() {
     res.json()
   );
 
-  const cardsData = await fetch("https://jsonkeeper.com/b/S0ZN").then((res) =>
+  const cardsData = await fetch("https://jsonkeeper.com/b/9KZM").then((res) =>
     res.json()
   );
 
